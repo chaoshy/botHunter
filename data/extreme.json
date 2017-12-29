@@ -1,0 +1,142 @@
+[
+	{
+		"main": [
+			["SR", "PT"], 
+			["SR"]
+		], 
+		"alt" : [
+			[
+				["Granada"], 
+				["Granada", "RPG"]
+			], 
+			[
+				["RPG"], 
+				["ES", "RPG"]
+			], 
+			[
+				["Mina"], 
+				["ES", "RPG"]
+			], 
+			[
+				["Hornet"], 
+				["ES", "RPG"]
+			], 
+			[
+				[], 
+				["Mina"]
+			]
+		]
+	}, 
+	{
+		"main": [
+			["SG", "PT"], 
+			["SG", "SMG"]
+		], 
+		"alt" : [
+			[
+				["ES", "RPG", "Granada"], 
+				["Granada", "Mina"]
+			], 
+			[
+				["RPG", "Mina"], 
+				["Mina"]
+			], 
+			[
+				["ES"], 
+				["Granada"]
+			], 
+			[
+				["ES", "Granada"], 
+				["Hornet"]
+			]
+		]
+	}, 
+	{
+		"main": [
+			["AR"], 
+			["AR"]
+		], 
+		"alt" : [
+			[
+				["RPG", "Granada"], 
+				[]
+			], 
+			[
+				["ES"], 
+				["Medkit (port)"]
+			], 
+			[
+				["Hornet"], 
+				["Medkit (port)"]
+			], 
+			[
+				["Mina"], 
+				["Medkit (port)"]
+			], 
+			[
+				["Medkit (port)"], 
+				["RPG", "Granada"]
+			], 
+			[
+				["Medkit (port)"], 
+				["ES"]
+			], 
+			[
+				["Medkit (port)"], 
+				["Hornet"]
+			], 
+			[
+				[], 
+				["Granada", "Mina"]
+			], 
+			[
+				[], 
+				["ES"]
+			], 
+			[
+				[], 
+				["RPG"]
+			]
+		]
+	}, 
+	{
+		"main": [
+			["SMG"], 
+			["SG"]
+		], 
+		"alt" : [
+			[
+				[], 
+				["Granada", "Mina"]
+			], 
+			[
+				[], 
+				["ES"]
+			], 
+			[
+				[], 
+				["RPG"]
+			]
+		]
+	}, 
+	{
+		"main": [
+			["AR", "SR"], 
+			["AR", "SMG"]
+		], 
+		"alt" : [
+			[
+				["Medkit (solo)"], 
+				["ES", "Granada"]
+			], 
+			[
+				["Medkit (solo)"], 
+				["ES", "RPG"]
+			], 
+			[
+				["Medkit (solo)"], 
+				["ES", "Medkit (port)"]
+			]
+		]
+	}
+]

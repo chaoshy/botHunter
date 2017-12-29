@@ -1,0 +1,114 @@
+[
+	{
+		"main": [
+			["SR", "AR"], 
+			["SR", "AR"]
+		], 
+		"alt" : [
+			[
+				["Granada"], 
+				["Granada"]
+			], 
+			[
+				["ES"], 
+				["ES"]
+			], 
+			[
+				["RPG"], 
+				["RPG"]
+			], 
+			[
+				["Granada"], 
+				["RPG"]
+			], 
+			[
+				["RPG"], 
+				["Granada"]
+			]
+		]
+	}, 
+	{
+		"main": [
+			["SR", "SMG"], 
+			["SR", "SMG"]
+		], 
+		"alt" : [
+			[
+				["Granada"], 
+				["Granada"]
+			], 
+			[
+				["ES"], 
+				["ES"]
+			], 
+			[
+				["RPG"], 
+				["RPG"]
+			], 
+			[
+				["Granada"], 
+				["RPG"]
+			], 
+			[
+				["RPG"], 
+				["Granada"]
+			]
+		]
+	}, 
+	{
+		"main": [
+			["AR", "SMG"], 
+			["AR", "SMG"]
+		], 
+		"alt" : [
+			[
+				["Granada"], 
+				["Granada"]
+			], 
+			[
+				["ES"], 
+				["ES"]
+			], 
+			[
+				["RPG"], 
+				["RPG"]
+			], 
+			[
+				["Granada"], 
+				["RPG"]
+			], 
+			[
+				["RPG"], 
+				["Granada"]
+			]
+		]
+	}, 
+	{
+		"main": [
+			["AR", "SG"], 
+			["AR", "SG"]
+		], 
+		"alt" : [
+			[
+				["Granada"], 
+				["Granada"]
+			], 
+			[
+				["ES"], 
+				["ES"]
+			], 
+			[
+				["RPG"], 
+				["RPG"]
+			], 
+			[
+				["Granada"], 
+				["RPG"]
+			], 
+			[
+				["RPG"], 
+				["Granada"]
+			]
+		]
+	}
+]
