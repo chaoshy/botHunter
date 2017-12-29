@@ -1,0 +1,14 @@
+{
+  "name": "hunterbot",
+  "version": "2.0.0",
+  "description": "Bot for Los Hunters guild",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "ChaosXCross",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
