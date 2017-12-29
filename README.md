@@ -1,0 +1,2 @@
+# botHunter
+Discord Bot
