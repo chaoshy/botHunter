@@ -1,52 +1,52 @@
 [
 	{
 		"main": [
-			["SR", "PT"], 
+			["SR"], 
 			["SR"]
 		], 
 		"alt" : [
 			[
-				["Granada"], 
+				["PT", "Granada"], 
 				["Granada", "RPG"]
 			], 
 			[
-				["RPG"], 
+				["PT", "RPG"], 
 				["ES", "RPG"]
 			], 
 			[
-				["Mina"], 
+				["PT", "Mina"], 
 				["ES", "RPG"]
 			], 
 			[
-				["Hornet"], 
+				["PT", "Hornet"], 
 				["ES", "RPG"]
 			], 
 			[
-				[], 
+				["PT"], 
 				["Mina"]
 			]
 		]
 	}, 
 	{
 		"main": [
-			["SG", "PT"], 
+			["SG"], 
 			["SG", "SMG"]
 		], 
 		"alt" : [
 			[
-				["ES", "RPG", "Granada"], 
+				["PT", "ES", "RPG", "Granada"], 
 				["Granada", "Mina"]
 			], 
 			[
-				["RPG", "Mina"], 
+				["PT", "RPG", "Mina"], 
 				["Mina"]
 			], 
 			[
-				["ES"], 
+				["PT", "ES"], 
 				["Granada"]
 			], 
 			[
-				["ES", "Granada"], 
+				["PT", "ES", "Granada"], 
 				["Hornet"]
 			]
 		]

@@ -1,0 +1,2657 @@
+[
+    {
+        "id": 1515258496012,
+        "timestamp": "Sat Jan 06 2018 15:08:16 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "AR"
+            ],
+            "bravo": [
+                "AR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 2,
+                "bravo": 2
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 8
+            },
+            "a": {
+                "alfa": 4,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 7
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "a",
+                        "<@396003761904025601>",
+                        "c",
+                        "<@!199616570987773952>"
+                    ],
+                    "score": 5
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "<@386212129822343171>",
+                        "b",
+                        "d",
+                        "Snow"
+                    ],
+                    "score": 6
+                },
+                "diff": 1
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "a",
+                        "c",
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 7
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "b",
+                        "d",
+                        "Snow",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 4
+                },
+                "diff": 3
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "b",
+                        "Snow",
+                        "<@396003761904025601>",
+                        "c"
+                    ],
+                    "score": 6
+                },
+                "diff": 1
+            },
+            {
+                "id": 3,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "c"
+                    ],
+                    "score": 7
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "b",
+                        "Snow",
+                        "<@396003761904025601>",
+                        "d"
+                    ],
+                    "score": 4
+                },
+                "diff": 3
+            }
+        ],
+        "best_round": 0
+    },
+    {
+        "id": 1515258511129,
+        "timestamp": "Sat Jan 06 2018 15:08:31 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SMG"
+            ],
+            "bravo": [
+                "AR",
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 10,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 7,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 10,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 10,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "c",
+                        "<@386212129822343171>",
+                        "<@!199616570987773952>",
+                        "b"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "a",
+                        "d",
+                        "<@396003761904025601>",
+                        "Snow"
+                    ],
+                    "score": 5
+                },
+                "diff": 3
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "<@!199616570987773952>",
+                        "b",
+                        "d"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "a",
+                        "<@396003761904025601>",
+                        "Snow",
+                        "c"
+                    ],
+                    "score": 7
+                },
+                "diff": 1
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "b",
+                        "d",
+                        "a"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "Snow",
+                        "c",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 8
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 2
+    },
+    {
+        "id": 1515258514627,
+        "timestamp": "Sat Jan 06 2018 15:08:34 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SR"
+            ],
+            "bravo": [
+                "AR",
+                "SMG"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 5,
+                "bravo": 10
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 10,
+                "bravo": 7
+            },
+            "Snow": {
+                "alfa": 10,
+                "bravo": 8
+            },
+            "a": {
+                "alfa": 4,
+                "bravo": 10
+            },
+            "b": {
+                "alfa": 9,
+                "bravo": 7
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 10
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "Snow"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "c",
+                        "<@396003761904025601>",
+                        "d",
+                        "b"
+                    ],
+                    "score": 9
+                },
+                "diff": 1
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "Snow",
+                        "c"
+                    ],
+                    "score": 10
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "d",
+                        "b",
+                        "a"
+                    ],
+                    "score": 9
+                },
+                "diff": 1
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "Snow",
+                        "c",
+                        "b"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "d",
+                        "a",
+                        "<@!199616570987773952>"
+                    ],
+                    "score": 9
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 2
+    },
+    {
+        "id": 1515258543784,
+        "timestamp": "Sat Jan 06 2018 15:09:03 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "SR"
+            ],
+            "bravo": [
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 8,
+                "bravo": 8
+            },
+            "<@!199616570987773952>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 3,
+                "bravo": 3
+            },
+            "b": {
+                "alfa": 9,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "Granada",
+                        "RPG"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "Snow",
+                        "b",
+                        "<@!199616570987773952>"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Granada"
+                    ],
+                    "team": [
+                        "c",
+                        "<@386212129822343171>",
+                        "a",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "diff": 3
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "Granada",
+                        "RPG"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "b",
+                        "<@!199616570987773952>",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Granada"
+                    ],
+                    "team": [
+                        "c",
+                        "<@386212129822343171>",
+                        "a",
+                        "Snow"
+                    ],
+                    "score": 7
+                },
+                "diff": 1
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "Granada",
+                        "RPG"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "b",
+                        "<@!199616570987773952>",
+                        "c"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "a",
+                        "Snow",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "diff": 3
+            },
+            {
+                "id": 3,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "Granada",
+                        "RPG"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "b",
+                        "c",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "a",
+                        "Snow",
+                        "<@!199616570987773952>"
+                    ],
+                    "score": 7
+                },
+                "diff": 1
+            }
+        ],
+        "best_round": 1
+    },
+    {
+        "id": 1515258657712,
+        "timestamp": "Sat Jan 06 2018 15:10:57 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SMG"
+            ],
+            "bravo": [
+                "AR",
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 10,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 7,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 10,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 10,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "c",
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "Snow",
+                        "b",
+                        "a",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "diff": 3
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "<@396003761904025601>",
+                        "d"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "Snow",
+                        "b",
+                        "a",
+                        "c"
+                    ],
+                    "score": 8
+                },
+                "diff": 1
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "d",
+                        "a"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "Snow",
+                        "b",
+                        "c",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 9
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 2
+    },
+    {
+        "id": 1515259212473,
+        "timestamp": "Sat Jan 06 2018 15:20:12 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "SR"
+            ],
+            "bravo": [
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 8,
+                "bravo": 8
+            },
+            "<@!199616570987773952>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 3,
+                "bravo": 3
+            },
+            "b": {
+                "alfa": 9,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Hornet"
+                    ],
+                    "team": [
+                        "c",
+                        "a",
+                        "<@!199616570987773952>",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "ES",
+                        "RPG"
+                    ],
+                    "team": [
+                        "b",
+                        "<@396003761904025601>",
+                        "Snow",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 8
+                },
+                "diff": 2
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Hornet"
+                    ],
+                    "team": [
+                        "c",
+                        "a",
+                        "<@!199616570987773952>",
+                        "Snow"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "ES",
+                        "RPG"
+                    ],
+                    "team": [
+                        "b",
+                        "<@396003761904025601>",
+                        "<@386212129822343171>",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "diff": 3
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Hornet"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "Snow",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "ES",
+                        "RPG"
+                    ],
+                    "team": [
+                        "b",
+                        "<@396003761904025601>",
+                        "<@386212129822343171>",
+                        "c"
+                    ],
+                    "score": 8
+                },
+                "diff": 2
+            },
+            {
+                "id": 3,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "PT",
+                        "Hornet"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "Snow",
+                        "c"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR"
+                    ],
+                    "alt": [
+                        "ES",
+                        "RPG"
+                    ],
+                    "team": [
+                        "b",
+                        "<@396003761904025601>",
+                        "<@386212129822343171>",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "diff": 3
+            }
+        ],
+        "best_round": 0
+    },
+    {
+        "id": 1515261487854,
+        "timestamp": "Sat Jan 06 2018 15:58:07 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "SMG"
+            ],
+            "bravo": [
+                "SG"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 10,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 9,
+                "bravo": 8
+            },
+            "<@!199616570987773952>": {
+                "alfa": 7,
+                "bravo": 5
+            },
+            "Snow": {
+                "alfa": 5,
+                "bravo": 2
+            },
+            "a": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "b": {
+                "alfa": 1,
+                "bravo": 4
+            },
+            "c": {
+                "alfa": 1,
+                "bravo": 1
+            },
+            "d": {
+                "alfa": 10,
+                "bravo": 10
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SMG"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "a",
+                        "d",
+                        "<@386212129822343171>",
+                        "b"
+                    ],
+                    "score": 7
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SG"
+                    ],
+                    "alt": [
+                        "Granada",
+                        "Mina"
+                    ],
+                    "team": [
+                        "c",
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "Snow"
+                    ],
+                    "score": 3
+                },
+                "diff": 4
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SMG"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "d",
+                        "<@386212129822343171>",
+                        "b",
+                        "c"
+                    ],
+                    "score": 5
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SG"
+                    ],
+                    "alt": [
+                        "Granada",
+                        "Mina"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "Snow",
+                        "a"
+                    ],
+                    "score": 5
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 1
+    },
+    {
+        "id": 1515262565307,
+        "timestamp": "Sat Jan 06 2018 16:16:05 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "AR"
+            ],
+            "bravo": [
+                "AR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 2,
+                "bravo": 2
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 8
+            },
+            "a": {
+                "alfa": 4,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 7
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "ES"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "d",
+                        "<@396003761904025601>",
+                        "Snow"
+                    ],
+                    "score": 4
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "b",
+                        "a",
+                        "c",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 7
+                },
+                "diff": 3
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "ES"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "Snow",
+                        "c"
+                    ],
+                    "score": 6
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "b",
+                        "a",
+                        "<@386212129822343171>",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "diff": 1
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "ES"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "Snow",
+                        "d"
+                    ],
+                    "score": 4
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "b",
+                        "a",
+                        "<@386212129822343171>",
+                        "c"
+                    ],
+                    "score": 7
+                },
+                "diff": 3
+            },
+            {
+                "id": 3,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "ES"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "Snow",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 6
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "b",
+                        "a",
+                        "c",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "diff": 1
+            }
+        ],
+        "best_round": 1
+    },
+    {
+        "id": 1515262569466,
+        "timestamp": "Sat Jan 06 2018 16:16:09 GMT-0200 (Horário brasileiro de verão)",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SMG"
+            ],
+            "bravo": [
+                "AR",
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 10,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 7,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 10,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 10,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "d",
+                        "Snow",
+                        "a",
+                        "c"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "<@386212129822343171>",
+                        "b"
+                    ],
+                    "score": 8
+                },
+                "diff": 1
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "Snow",
+                        "a",
+                        "c",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "b",
+                        "d"
+                    ],
+                    "score": 7
+                },
+                "diff": 2
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "Snow",
+                        "c",
+                        "<@396003761904025601>",
+                        "d"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "b",
+                        "a"
+                    ],
+                    "score": 8
+                },
+                "diff": 1
+            },
+            {
+                "id": 3,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "Snow",
+                        "<@396003761904025601>",
+                        "d",
+                        "a"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "b",
+                        "c"
+                    ],
+                    "score": 9
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 3
+    },
+    {
+        "id": 1515263202840,
+        "timestamp": "Sat Jan 06 2018 16:26:42 GMT-0200 (Horário brasileiro de verão)",
+        "mode": "",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SMG"
+            ],
+            "bravo": [
+                "AR",
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 10,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 7,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 10,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 10,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "RPG"
+                    ],
+                    "team": [
+                        "b",
+                        "<@396003761904025601>",
+                        "<@386212129822343171>",
+                        "Snow"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "c",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "diff": 2
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "RPG"
+                    ],
+                    "team": [
+                        "b",
+                        "<@386212129822343171>",
+                        "Snow",
+                        "d"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "c",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 7
+                },
+                "diff": 1
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "RPG"
+                    ],
+                    "team": [
+                        "b",
+                        "Snow",
+                        "d",
+                        "a"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "c",
+                        "<@396003761904025601>",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 8
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 2
+    },
+    {
+        "id": 1515263263049,
+        "timestamp": "Sat Jan 06 2018 16:27:43 GMT-0200 (Horário brasileiro de verão)",
+        "mode": "",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SMG"
+            ],
+            "bravo": [
+                "AR",
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 10,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 7,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 10,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 10,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "Snow",
+                        "d",
+                        "c",
+                        "b"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "a",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 7
+                },
+                "diff": 1
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "Snow",
+                        "c",
+                        "b",
+                        "a"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "<@396003761904025601>",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "diff": 2
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "Snow",
+                        "b",
+                        "a",
+                        "d"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@386212129822343171>",
+                        "<@396003761904025601>",
+                        "c"
+                    ],
+                    "score": 8
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 2
+    },
+    {
+        "id": 1515263389254,
+        "timestamp": "Sat Jan 06 2018 16:29:49 GMT-0200 (Horário brasileiro de verão)",
+        "mode": "",
+        "weapons": {
+            "alfa": [
+                "AR"
+            ],
+            "bravo": [
+                "AR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 2,
+                "bravo": 2
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 8
+            },
+            "a": {
+                "alfa": 4,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 7
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "a",
+                        "d",
+                        "<@386212129822343171>",
+                        "<@!199616570987773952>"
+                    ],
+                    "score": 5
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "c",
+                        "<@396003761904025601>",
+                        "Snow",
+                        "b"
+                    ],
+                    "score": 6
+                },
+                "diff": 1
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "a",
+                        "<@386212129822343171>",
+                        "<@!199616570987773952>",
+                        "c"
+                    ],
+                    "score": 7
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "Snow",
+                        "b",
+                        "d"
+                    ],
+                    "score": 4
+                },
+                "diff": 3
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "c",
+                        "d"
+                    ],
+                    "score": 5
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "Snow",
+                        "b",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 6
+                },
+                "diff": 1
+            },
+            {
+                "id": 3,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "c",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 7
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "Snow",
+                        "b",
+                        "d"
+                    ],
+                    "score": 4
+                },
+                "diff": 3
+            }
+        ],
+        "best_round": 0
+    },
+    {
+        "id": 1515263490117,
+        "timestamp": "Sat Jan 06 2018 16:31:30 GMT-0200 (Horário brasileiro de verão)",
+        "mode": "",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SMG"
+            ],
+            "bravo": [
+                "AR",
+                "SR"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 10,
+                "bravo": 5
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 7,
+                "bravo": 10
+            },
+            "Snow": {
+                "alfa": 8,
+                "bravo": 10
+            },
+            "a": {
+                "alfa": 10,
+                "bravo": 4
+            },
+            "b": {
+                "alfa": 7,
+                "bravo": 9
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 10,
+                "bravo": 1
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "a",
+                        "b",
+                        "d"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@396003761904025601>",
+                        "c",
+                        "<@386212129822343171>",
+                        "Snow"
+                    ],
+                    "score": 8
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 0
+    },
+    {
+        "id": 1515263507728,
+        "timestamp": "Sat Jan 06 2018 16:31:47 GMT-0200 (Horário brasileiro de verão)",
+        "mode": "",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SR"
+            ],
+            "bravo": [
+                "AR",
+                "SMG"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 5,
+                "bravo": 10
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 10,
+                "bravo": 7
+            },
+            "Snow": {
+                "alfa": 10,
+                "bravo": 8
+            },
+            "a": {
+                "alfa": 4,
+                "bravo": 10
+            },
+            "b": {
+                "alfa": 9,
+                "bravo": 7
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 10
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "c",
+                        "a",
+                        "d"
+                    ],
+                    "score": 6
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "Snow",
+                        "b",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 8
+                },
+                "diff": 2
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "c",
+                        "a",
+                        "<@386212129822343171>"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Medkit (port)"
+                    ],
+                    "team": [
+                        "Snow",
+                        "b",
+                        "<@396003761904025601>",
+                        "d"
+                    ],
+                    "score": 8
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 1
+    },
+    {
+        "id": 1515263588058,
+        "timestamp": "Sat Jan 06 2018 16:33:08 GMT-0200 (Horário brasileiro de verão)",
+        "mode": "",
+        "weapons": {
+            "alfa": [
+                "AR",
+                "SR"
+            ],
+            "bravo": [
+                "AR",
+                "SMG"
+            ]
+        },
+        "players": {
+            "<@396003761904025601>": {
+                "alfa": 5,
+                "bravo": 10
+            },
+            "<@386212129822343171>": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "<@!199616570987773952>": {
+                "alfa": 10,
+                "bravo": 7
+            },
+            "Snow": {
+                "alfa": 10,
+                "bravo": 8
+            },
+            "a": {
+                "alfa": 4,
+                "bravo": 10
+            },
+            "b": {
+                "alfa": 9,
+                "bravo": 7
+            },
+            "c": {
+                "alfa": 10,
+                "bravo": 10
+            },
+            "d": {
+                "alfa": 1,
+                "bravo": 10
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "d",
+                        "<@386212129822343171>",
+                        "Snow",
+                        "b"
+                    ],
+                    "score": 7
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "a",
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "c"
+                    ],
+                    "score": 9
+                },
+                "diff": 2
+            },
+            {
+                "id": 1,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "Snow",
+                        "b",
+                        "a"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "<@396003761904025601>",
+                        "c",
+                        "d"
+                    ],
+                    "score": 9
+                },
+                "diff": 1
+            },
+            {
+                "id": 2,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "Snow",
+                        "b",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 8
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "c",
+                        "d",
+                        "a"
+                    ],
+                    "score": 9
+                },
+                "diff": 1
+            },
+            {
+                "id": 3,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "AR",
+                        "SR"
+                    ],
+                    "alt": [
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "<@386212129822343171>",
+                        "Snow",
+                        "b",
+                        "c"
+                    ],
+                    "score": 9
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "AR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "ES",
+                        "Granada"
+                    ],
+                    "team": [
+                        "<@!199616570987773952>",
+                        "d",
+                        "a",
+                        "<@396003761904025601>"
+                    ],
+                    "score": 9
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 3
+    },
+    {
+        "id": 1515624736659,
+        "timestamp": "Wed Jan 10 2018 20:52:16 GMT-0200 (Horário brasileiro de verão)",
+        "mode": "",
+        "weapons": {
+            "alfa": [
+                "SR",
+                "SMG"
+            ],
+            "bravo": [
+                "SR",
+                "SMG"
+            ]
+        },
+        "players": {
+            "Byg": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Cross": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "iTz": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Emerson": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Black": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Estefam": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "FabRufo": {
+                "alfa": 5,
+                "bravo": 5
+            },
+            "Gabriel": {
+                "alfa": 5,
+                "bravo": 5
+            }
+        },
+        "rounds": [
+            {
+                "id": 0,
+                "alfa": {
+                    "id": "alfa",
+                    "main": [
+                        "SR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "Emerson",
+                        "FabRufo",
+                        "Black",
+                        "iTz"
+                    ],
+                    "score": 5
+                },
+                "bravo": {
+                    "id": "bravo",
+                    "main": [
+                        "SR",
+                        "SMG"
+                    ],
+                    "alt": [
+                        "RPG",
+                        "Medkit (solo)"
+                    ],
+                    "team": [
+                        "Cross",
+                        "Byg",
+                        "Gabriel",
+                        "Estefam"
+                    ],
+                    "score": 5
+                },
+                "diff": 0
+            }
+        ],
+        "best_round": 0
+    }
+]

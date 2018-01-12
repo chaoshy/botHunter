@@ -9,6 +9,14 @@ module.exports.run = async function (bot, message, args) {
 		return;
 	}
 
+	// Precisa ser numérico
+	if (isNaN(args[2])) {
+		args[2] = 1;
+	}
+	else {
+		args[2] = parseInt(args[2]);
+	}
+
 	// Seta o alvo
 	var target_id = args[0].replace(/([^\d])/g, "");
 	var target = message.guild.members.get(target_id);
@@ -42,11 +50,18 @@ module.exports.run = async function (bot, message, args) {
 	// Insere a kill na lista
 	if (lists[message.author.id][args[1]][(target.id || target)]) {
 
-		lists[message.author.id][args[1]][(target.id || target)]++;
+		if (args[2]){
+
+			lists[message.author.id][args[1]][(target.id || target)] += args[2];
+		}
+		else {
+
+			lists[message.author.id][args[1]][(target.id || target)]++;
+		}
 	}
 	else {
 
-		lists[message.author.id][args[1]][(target.id || target)] = 1;
+		lists[message.author.id][args[1]][(target.id || target)] = args[2] || 1;
 	}
 
 	// Seta variável com a quantidade de kills
@@ -61,6 +76,14 @@ module.exports.run = async function (bot, message, args) {
 	});
 }
 
-module.exports.help = {
-	name: "add"
+module.exports.info = {
+	name: "add", 
+	desc: "Adiciona kills a um jogador em uma lista de kills", 
+	help: "**Comando Add** \n\n" +
+		  "**1.** Adicione kills a um jogador em uma lista de kills \n\n" +
+		  "``!add [@jogador | jogador] [lista] [kills]`` \n\n" +
+		  "Exemplo: ``!add @BotHunter lista`` \n\n" +
+		  "Exemplo: ``!add BotHunter lista 3`` \n\n" +
+		  "*Obs.: Se o número de kills não for especificado será adicionada 1 kill.* \n" + 
+		  "*Obs.: Se a lista não existir, ela será criada automaticamente.*"
 }

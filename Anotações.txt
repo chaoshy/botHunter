@@ -1,0 +1,212 @@
+Anotações:
+
+Discord.Collection
+
+// map.get("id");
+// map.find("name", "NAME");
+// map.find(obj => obj.name === "NAME");
+// map.has("id");
+// map.exists("name", "NAME"); // True or False
+
+Ideias iniciais:
+
+- Gerenciador de duelos
+- Poker
+
+Poker:
+
+- Comando !poker
+
+1. Inicia o jogo de poker:
+@[user] Iniciou um jogo de pôquer, digite ``!poker`` para se juntar à mesa.
+*10 segundos para o início do jogo.*
+
+2. Usuário que nunca jogou, ganha por default 1.000 fichas:
+@[user] ganhou **1.000** fichas para começar a jogar.
+
+3. Um jogador que iniciar !poker durante o jogo não retornará resultado até a partida acabar.
+
+4. Todos que desejam ingressar no jogo devem digitar !poker dentro de 10 segundos (a partir do último comando)
+@[user] se juntou à mesa. Para jogar digite ``!poker``
+*10 segundos para o início do jogo.*
+
+5. A Blind é cobrada automaticamente e as cartas são distribuídas em PVT
+Suas cartas são:
+**| ♤2 | ♡K | ♢A |**
+♤ Espadas
+♡ Copas
+♢ Ouros
+♧ Paus
+
+6. O primeiro jogador a jogar tem 15 segundos de prazo
+
+7. Se o prazo for ultrapassado é dado como Fold (desistência)
+
+8. Os próximos jogadores tem 10 segundos de prazo.
+
+9. Um jogador pode apostar !bet [número de fichas]
+
+10. O número de fichas deverá ser igual ou inferior ao que o jogador possuir, ou então será dado como All In
+
+11. Os outros jogadores poderão desistir com !fold, cobrir com !check ou aumentar com !raise [número de fichas]
+
+12. Após cada rodada será baixado uma carta na mesa (poker texas hold'em)
+
+13. Sempre que um jogador fizer um movimento !bet !check !raise !fold, será relatado:
+O jogador @[user] aumentou a aposta em 5 fichas. [ALL IN]
+Fichas restantes do jogador: 900 | Pote: 15
+
+14. Sempre que um jogador for jogar deve receber uma mensagem:
+Vez do jogador @TestBot#9506 . (**900** fichas restantes)
+```
+!check           | Para cobrir aposta
+!bet   [fichas]  | Para apostar
+!raise [fichas]  | Para aumentar aposta
+!fold            | Para desistir
+```
+*Você tem 10 segundos para jogar ou será dado como desistência.*
+
+15. No final as cartas serão comparadas de acordo com as mãos do pôquer e o vencedor leva o pote:
+O jogador @[user] venceu a partida!
+Fichas obtidas: 195
+
+16. A partir desse ponto torna-se possível chamar novamente o comando !poker e novos jogadores ingressarem
+
+17. Se um comando for utilizado fora de partida:
+Não há nenhum jogo de poker em andamento, utilize ``!poker`` para iniciar uma partida.
+
+18. Fora de partida um jogador pode utilizar um comando para checar suas fichas, !chips ou !fichas:
+
+===
+
+Treino com 4 participantes:
+
+Byg
+A = 10
+B = 8
+
+Cross
+A = 4
+B = 10
+
+Bot
+A = 2
+B = 7
+
+Snow
+A = 3
+B = 2
+
+---
+
+Alfa
+- Snow  = 3
+- Bot   = 2
+3 + 2 / 2 = 2
+
+Bravo
+- Cross = 10
+- Byg   = 8
+10 + 8 / 2 = 9
+
+[desequilíbrio = 7]
+
+---
+
+Round 1:
+
+Time fraco: Alfa
+Time forte: Bravo
+
+Mais fraco: Bot
+Mais forte: Cross
+
+Alfa
+- Cross = 4
+- Snow  = 3
+4 + 3 / 2 = 3
+
+Bravo
+- Bot   = 7
+- Byg   = 8
+7 + 8 / 2 = 7
+
+[desequilíbrio = 4]
+
+---
+
+Round 2:
+
+Time fraco: Alfa
+Time forte: Bravo
+
+Mais fraco: Snow
+Mais forte: Byg
+
+Alfa
+- Byg   = 10
+- Cross = 4
+10 + 4 / 2 = 7
+
+Bravo
+- Snow  = 2
+- Bot   = 7
+2 + 7 / 2 = 4
+
+[desequilíbrio = 3]
+
+---
+
+Round 3:
+
+Time fraco: Bravo
+Time forte: Alfa
+
+Mais fraco: Snow
+Mais forte: Byg
+
+[os dois foram os últimos a serem movidos]
+
+Segundo mais fraco: Bot
+Segundo mais forte: Cross
+
+Alfa
+- Bot   = 2
+- Byg   = 10
+2 + 10 / 2 = 6
+
+Bravo
+- Cross = 4
+- Snow  = 2
+4 + 2 / 2 = 3
+
+[desequilibrio = 3]
+
+---
+
+Resultados:
+
+Original = 7
+Round 1  = 4
+Round 2  = 3
+Round 3  = 3
+
+Menor desequilíbrio com menos movimentos: R2
+
+---
+
+Resultado:
+
+Alfa
+- Byg   = 10
+- Cross = 4
+10 + 4 / 2 = 7
+
+Bravo
+- Snow  = 2
+- Bot   = 7
+2 + 7 / 2 = 4
+
+[desequilíbrio = 3]
+
+===

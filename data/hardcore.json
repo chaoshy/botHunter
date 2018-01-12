@@ -85,33 +85,33 @@
 	}, 
 	{
 		"main": [
-			["SR", "PT"], 
-			["SR", "PT"]
+			["SR"], 
+			["SR"]
 		], 
 		"alt" : [
 			[
-				["Granada"], 
-				["Granada"]
+				["PT", "Granada"], 
+				["PT", "Granada"]
 			], 
 			[
-				["Hornet", "Granada"], 
-				["Hornet", "Granada"]
+				["PT", "Hornet", "Granada"], 
+				["PT", "Hornet", "Granada"]
 			], 
 			[
-				["Mina", "Granada"], 
-				["Mina", "Granada"]
+				["PT", "Mina", "Granada"], 
+				["PT", "Mina", "Granada"]
 			], 
 			[
-				["RPG"], 
-				["RPG"]
+				["PT", "RPG"], 
+				["PT", "RPG"]
 			], 
 			[
-				["Granada"], 
-				["RPG"]
+				["PT", "Granada"], 
+				["PT", "RPG"]
 			], 
 			[
-				["RPG"], 
-				["Granada"]
+				["PT", "RPG"], 
+				["PT", "Granada"]
 			]
 		]
 	}

@@ -3,7 +3,7 @@ const fs      = require("fs");
 
 module.exports.run = async function (bot, message, args) {
 
-	let lists = require("../data/lists.json");
+	var lists = require("../data/lists.json");
 
 	if ((!lists) || (!lists[message.author.id])) {
 		message.channel.send("Não há listas para mostrar");
@@ -60,6 +60,12 @@ module.exports.run = async function (bot, message, args) {
 	message.channel.send(embed);
 }
 
-module.exports.help = {
-	name: "show"
+module.exports.info = {
+	name: "show", 
+	desc: "Exibe uma lista de kills", 
+	help: "**Comando Show** \n\n" +
+		  "Exibe uma lista de kills \n\n" +
+		  "``!show [lista]`` \n\n" +
+		  "Exemplo: ``!show lista`` \n\n" +
+		  "*Obs.: O usuário só pode visualizar suas próprias listas*"
 }
