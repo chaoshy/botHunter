@@ -60,7 +60,6 @@ bot.on("message", async function (message) {
 
 	// Seta funcionalidades adicionais
 	bot.setFunc(message, args);
-	message.channel.send(process.env.BOT_TOKEN);
 
 	// Recupera comando
 	let cmd = bot.commands.get(command);
@@ -110,4 +109,4 @@ bot.setFunc = function (message, args) {
 
 
 // Realiza login do bot no servidor
-bot.login(settings.token);
+bot.login(process.env.BOT_TOKEN); //settings.token
